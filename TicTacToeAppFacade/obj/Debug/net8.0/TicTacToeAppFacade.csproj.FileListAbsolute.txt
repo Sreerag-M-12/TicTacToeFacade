@@ -1,0 +1,14 @@
+C:\Users\sreerag.babu\source\repos\TicTacToeAppFacade\TicTacToeAppFacade\obj\Debug\net8.0\TicTacToeAppFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreerag.babu\source\repos\TicTacToeAppFacade\TicTacToeAppFacade\obj\Debug\net8.0\TicTacToeAppFacade.AssemblyInfoInputs.cache
+C:\Users\sreerag.babu\source\repos\TicTacToeAppFacade\TicTacToeAppFacade\obj\Debug\net8.0\TicTacToeAppFacade.AssemblyInfo.cs
+C:\Users\sreerag.babu\source\repos\TicTacToeAppFacade\TicTacToeAppFacade\obj\Debug\net8.0\TicTacToeAppFacade.csproj.CoreCompileInputs.cache
+C:\Users\sreerag.babu\source\repos\TicTacToeAppFacade\TicTacToeAppFacade\bin\Debug\net8.0\TicTacToeAppFacade.exe
+C:\Users\sreerag.babu\source\repos\TicTacToeAppFacade\TicTacToeAppFacade\bin\Debug\net8.0\TicTacToeAppFacade.deps.json
+C:\Users\sreerag.babu\source\repos\TicTacToeAppFacade\TicTacToeAppFacade\bin\Debug\net8.0\TicTacToeAppFacade.runtimeconfig.json
+C:\Users\sreerag.babu\source\repos\TicTacToeAppFacade\TicTacToeAppFacade\bin\Debug\net8.0\TicTacToeAppFacade.dll
+C:\Users\sreerag.babu\source\repos\TicTacToeAppFacade\TicTacToeAppFacade\bin\Debug\net8.0\TicTacToeAppFacade.pdb
+C:\Users\sreerag.babu\source\repos\TicTacToeAppFacade\TicTacToeAppFacade\obj\Debug\net8.0\TicTacToeAppFacade.dll
+C:\Users\sreerag.babu\source\repos\TicTacToeAppFacade\TicTacToeAppFacade\obj\Debug\net8.0\refint\TicTacToeAppFacade.dll
+C:\Users\sreerag.babu\source\repos\TicTacToeAppFacade\TicTacToeAppFacade\obj\Debug\net8.0\TicTacToeAppFacade.pdb
+C:\Users\sreerag.babu\source\repos\TicTacToeAppFacade\TicTacToeAppFacade\obj\Debug\net8.0\TicTacToeAppFacade.genruntimeconfig.cache
+C:\Users\sreerag.babu\source\repos\TicTacToeAppFacade\TicTacToeAppFacade\obj\Debug\net8.0\ref\TicTacToeAppFacade.dll
